@@ -1,4 +1,8 @@
 # Google-Advanced-Data-Analytics-Professional-Certificate
+
+Verify Link - https://www.coursera.org/account/accomplishments/professional-cert/RP6942E7N6GW
+
+
 The Google Advanced Data Analytics Certificate contains information on how to use machine learning, predictive modeling, and experimental design to collect and analyze large amounts of data, and prepare for jobs like Senior Data Analyst and Junior Data Scientist.
 
 Get professional training designed by Google and take the next step in your career with advanced data analytics skills. There are over 144,000 open jobs in advanced data analytics and the median salary for entry-level roles is $118,000.¹ 
